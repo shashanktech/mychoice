@@ -1,0 +1,62 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+.ac_results {
+	padding: 0px;
+	border: 1px solid #563d7c;
+	border-radius:5px;
+	background-color: white;
+	overflow: hidden;
+	z-index: 99999;
+}
+
+.ac_results ul {
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.ac_results li {
+	font-family:'open-sans', sans-serif;
+	font-size:16px;
+	color:#563d7c;
+	margin: 0px;
+	padding: 2px 5px;
+	cursor: default;
+	display: block;
+	/* 
+	if width will be 100% horizontal scrollbar will apear 
+	when scroll mode will be used
+	*/
+	/*width: 100%;*/
+	font: menu;
+	font-size: 12px;
+	/* 
+	it is very important, if line-height not setted or setted 
+	in relative units scroll will be broken in firefox
+	*/
+	line-height: 20px;
+	overflow: hidden;
+}
+
+.ac_loading {
+	/*background: white url('indicator.gif') right center no-repeat;*/
+}
+
+.ac_odd {
+	background-color: #DADEE7;
+	font-family:'open-sans', sans-serif;
+	font-size:16px;
+	line-height:20px;
+}
+
+.ac_over {
+	font-family:'open-sans', sans-serif;
+	font-size:16px;
+	background-color: #DADEE7;
+	color: #000;
+}
+.ac_over, .ac_odd : hover{
+	color:#fff;
+	border:1px solid #563d7c;
+}

@@ -1,0 +1,213 @@
+<!doctype html>
+<html>
+<head>
+<title>College Search Engine</title>
+<link rel="stylesheet" type="text/css" href="css/style.css"/> 
+</head>
+<body>
+	<main>
+		<header>
+			<div class="header_logo">
+			<img src="image/logo.jpg" height="134.5px" width="200px"/>	     
+			</div>
+			
+			<div class="header_menu">	
+				<div class="top_header_menu">
+						<div class="log_reg">
+							<ul>
+								<li>Login</li>
+								<li>Register</li>
+							</ul>
+
+						</div>
+				</div>	
+				<div class="bottom_header_menu">				
+						<div class="header_menu_bar">
+							<ul>
+								<li>Home Page</li>
+								<li>Search Page</li>
+								<li>Detail Page</li>
+								<li>Registration Page</li>
+
+								<li>About Us</li>
+								<li>Contact Us</li>
+							</ul>
+						</div>
+				</div>
+			</div>
+		</header>
+
+		<div class="info">
+		<img src="image/header.jpg" height="200px" width="100%" />
+		</div>
+		<div class="content_registration">
+		<div class="content_registration_left">
+				<div class="college_registration_title">
+				COLLEGE REGISTRATION
+				</div>
+
+					<form name="college_reg" action="#" method="post">	
+					<div class="registration_field">
+			 			<div class="college_label">COLLEGE CODE:</div>
+			 			<input type="text"class="registration_text" name="college_code" id="reg_id_1"/>
+					</div>
+
+					<div class="registration_field">
+			 			<div class="college_label">COLLEGE NAME:</div>
+			 			<input type="text"class="registration_text" name="college_name" id="reg_id_2"/>
+						</div>
+					</form>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="suggestion">
+				<div class="suggesstion_heading"> POPULAR SEARCHES</div>
+				
+				<div class="suggesstion1">
+					<div class="suggestion_image">
+					<img src="image/ab_m.gif" width="120px" height="120px"/>	
+					</div>
+					<div class="suggesstion_title">
+						ABES ENGINEERING COLLEGE
+					</div>
+
+					<div class="suggesstion_detail">
+						It is a top Engineering college of Ghaziabad,
+						it is based on values of propagating the devotion towards science
+					     
+
+					</div>
+
+
+				</div>	
+
+				<div class="suggesstion1">
+					<div class="suggestion_image">
+					<img src="image/ab_m.gif" width="120px" height="120px"/>	
+					</div>
+					<div class="suggesstion_title">
+						ABES ENGINEERING COLLEGE
+					</div>
+
+					<div class="suggesstion_detail">
+						It is a top Engineering college of Ghaziabad,
+						it is based on values of propagating the devotion towards science
+					     
+
+					</div>
+
+
+				</div>		
+
+				<div class="suggesstion1">
+					<div class="suggestion_image">
+					<img src="image/ab_m.gif" width="120px" height="120px"/>	
+					</div>
+					<div class="suggesstion_title">
+						ABES ENGINEERING COLLEGE
+					</div>
+
+					<div class="suggesstion_detail">
+						It is a top Engineering college of Ghaziabad,
+						it is based on values of propagating the devotion towards science
+					     
+
+					</div>
+
+
+				</div>		
+
+				<div class="suggesstion1">
+					<div class="suggestion_image">
+					<img src="image/ab_m.gif" width="120px" height="120px"/>	
+					</div>
+					<div class="suggesstion_title">
+						ABES ENGINEERING COLLEGE
+					</div>
+
+					<div class="suggesstion_detail">
+						It is a top Engineering college of Ghaziabad,
+						it is based on values of propagating the devotion towards science
+					     
+
+					</div>
+
+
+				</div>		
+
+
+
+
+
+			</div>
+					<div class="Useful_links">
+						<div class="useful_links_heading">
+							USEFUL LINKS
+						</div>
+
+					</div>
+
+		</div>
+
+				<footer>
+					
+						<div class="footer_menu">
+								<div class="footer_menu_bar">
+								<ul>
+									<li>Home Page</li>
+									<li>Search Page</li>
+									<li>Detail Page</li>
+									<li>Registration Page</li>
+									<li>About Us</li>
+									<li>Contact Us</li>
+
+								</ul>
+
+								</div>
+
+						</div>
+
+						
+							
+							<center>
+							<div class="footer_line1">
+							&copy COPYRIGHT 2014-2015  &nbsp  All Rights Reserved
+							</div>
+							<div class="footer_line2">
+							Developed By: Shashank Raghav
+							</div>
+							</center>
+
+				</footer>
+
+
+
+
+
+		</main>
+		</body>
+		</html>
